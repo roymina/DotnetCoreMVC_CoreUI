@@ -1,7 +1,7 @@
 // icons
-import "./lib/@coreui/icons/css/coreui-icons.min.css"; 
-import "./lib/font-awesome/css/font-awesome.min.css";
-import "./lib/simple-line-icons/css/simple-line-icons.css";
+//TODO : 每次离线下载图标很麻烦，发布时再放在这里打包
+
+//import "./lib/iconfont_biovr/iconfont.css"
 // lib styles
 import "./lib/pace-progress/css/pace.min.css"
 // main styles
